@@ -21,7 +21,7 @@ The booking scenario is reused from **Assignment 2**, but implemented in **Java*
 
 ## 🛠 Technology Stack
 
-- Java 11  
+- Java 21  
 - Selenium WebDriver  
 - JUnit 5  
 - Maven  
