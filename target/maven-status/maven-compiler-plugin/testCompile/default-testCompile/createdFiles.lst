@@ -1,0 +1,6 @@
+pages\PurchasePage.class
+pages\ConfirmationPage.class
+utils\DriverFactory.class
+pages\FlightsPage.class
+pages\HomePage.class
+tests\BookingTest.class
