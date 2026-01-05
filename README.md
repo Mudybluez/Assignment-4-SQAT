@@ -30,27 +30,6 @@ The booking scenario is reused from **Assignment 2**, but implemented in **Java*
 
 ---
 
-## 📁 Project Structure
-`
-src
-└── test
-    └── java
-        ├── pages
-        │   ├── HomePage.java
-        │   ├── FlightsPage.java
-        │   ├── PurchasePage.java
-        │   └── ConfirmationPage.java
-        │
-        ├── tests
-        │   └── BookingTest.java
-        │
-        └── utils
-            └── DriverFactory.java
-`
-
-
----
-
 ## 🧩 Page Object Model Description
 
 Each web page involved in the booking flow is represented by a separate Page Object class:
