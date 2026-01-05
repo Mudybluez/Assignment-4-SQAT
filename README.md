@@ -50,7 +50,7 @@ The test class controls only the test flow.
 
 Before running the project, ensure that the following are installed:
 
-- Java JDK 11  
+- Java JDK 21  
 - Maven  
 - Google Chrome  
 - Internet connection  
@@ -59,7 +59,7 @@ Check versions:
 ```bash
 java -version
 mvn -version
-
+```
 ---
 
 ## Test Execution
