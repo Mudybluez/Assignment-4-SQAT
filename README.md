@@ -31,7 +31,7 @@ The booking scenario is reused from **Assignment 2**, but implemented in **Java*
 ---
 
 ## 📁 Project Structure
-```
+
 src
 └── test
     └── java
